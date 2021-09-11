@@ -1,0 +1,7 @@
+C:\MY DOC\CSIS-4050-001\LabOne\Lab01SalesOrder\Lab01SalesOrder\bin\Debug\Lab01SalesOrder.exe.config
+C:\MY DOC\CSIS-4050-001\LabOne\Lab01SalesOrder\Lab01SalesOrder\bin\Debug\Lab01SalesOrder.exe
+C:\MY DOC\CSIS-4050-001\LabOne\Lab01SalesOrder\Lab01SalesOrder\bin\Debug\Lab01SalesOrder.pdb
+C:\MY DOC\CSIS-4050-001\LabOne\Lab01SalesOrder\Lab01SalesOrder\obj\Debug\SalesOrder.csprojAssemblyReference.cache
+C:\MY DOC\CSIS-4050-001\LabOne\Lab01SalesOrder\Lab01SalesOrder\obj\Debug\SalesOrder.csproj.CoreCompileInputs.cache
+C:\MY DOC\CSIS-4050-001\LabOne\Lab01SalesOrder\Lab01SalesOrder\obj\Debug\Lab01SalesOrder.exe
+C:\MY DOC\CSIS-4050-001\LabOne\Lab01SalesOrder\Lab01SalesOrder\obj\Debug\Lab01SalesOrder.pdb
